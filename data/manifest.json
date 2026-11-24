@@ -1,0 +1,47 @@
+{
+  "tables": [
+    {
+      "file": "venues.csv",
+      "columns": [
+        "venue_id",
+        "session_date",
+        "room_limit",
+        "table_limit",
+        "guide_limit"
+      ],
+      "key": "venue_id"
+    },
+    {
+      "file": "bookings.csv",
+      "columns": [
+        "booking_id",
+        "revision",
+        "group_token",
+        "member_token",
+        "session_id",
+        "requested_access",
+        "status"
+      ]
+    },
+    {
+      "file": "attendance.csv",
+      "columns": [
+        "booking_id",
+        "member_token",
+        "session_id",
+        "stage",
+        "status"
+      ]
+    },
+    {
+      "file": "stock.csv",
+      "columns": [
+        "session_id",
+        "item",
+        "opening_units",
+        "issued_units",
+        "returned_units"
+      ]
+    }
+  ]
+}

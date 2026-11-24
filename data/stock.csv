@@ -1,0 +1,5 @@
+session_id,item,opening_units,issued_units,returned_units
+S1,rubbing_sheet,20,11,2
+S1,ink_pad,6,4,1
+S2,rubbing_sheet,24,8,0
+S3,rubbing_sheet,18,12,1

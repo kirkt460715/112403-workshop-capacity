@@ -1,0 +1,6 @@
+booking_id,member_token,session_id,stage,status
+B01,M01,S1,briefing,attended
+B01,M01,S1,practice,attended
+B01,M02,S1,practice,assisted
+B03,M04,S2,briefing,absent
+B04,M05,S3,practice,attended
