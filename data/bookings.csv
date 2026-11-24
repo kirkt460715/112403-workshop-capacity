@@ -1,7 +1,7 @@
-booking_id,revision,group_token,member_token,session_id,requested_access,status
-B01,1,G01,M01,S1,step_free,confirmed
-B01,1,G01,M02,S1,step_free,confirmed
-B02,1,G02,M03,S1,none,waitlist
-B03,1,G03,M04,S2,companion,confirmed
-B03,2,G03,M04,S2,companion,cancelled
-B04,1,G04,M05,S3,none,confirmed
+booking_id,revision,group_token,member_token,session_id,requested_access,status,changed_at
+B01,1,G01,M01,S1,step_free,confirmed,2026-10-01T10:00
+B01,1,G01,M02,S1,step_free,confirmed,2026-10-01T10:00
+B02,1,G02,M03,S1,none,waitlist,2026-10-02T11:00
+B03,1,G03,M04,S2,companion,confirmed,2026-10-05T11:00
+B03,2,G03,M04,S2,companion,cancelled,2026-10-09T11:00
+B04,1,G04,M05,S3,none,confirmed,2026-10-15T11:00

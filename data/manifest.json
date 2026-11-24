@@ -31,7 +31,8 @@
         "member_token",
         "session_id",
         "requested_access",
-        "status"
+        "status",
+        "changed_at"
       ]
     },
     {
