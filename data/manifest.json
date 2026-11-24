@@ -12,6 +12,17 @@
       "key": "venue_id"
     },
     {
+      "file": "sessions.csv",
+      "columns": [
+        "session_id",
+        "venue_id",
+        "start_time",
+        "end_time",
+        "status"
+      ],
+      "key": "session_id"
+    },
+    {
       "file": "bookings.csv",
       "columns": [
         "booking_id",
